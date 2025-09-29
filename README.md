@@ -2,6 +2,8 @@
 
 This report details the development process of converting a simple linear regression script into an interactive Streamlit application, including all steps taken and modifications made.
 
+demo site: https://aiothw1-simplelr.streamlit.app/
+
 ## Project Overview
 
 This project started with a basic Python script (`app.py`) that performed simple linear regression, generated data with noise, trained a model, evaluated it, and visualized the results using `matplotlib`. The primary goal was to transform this script into a dynamic Streamlit web application, allowing users to interactively adjust key parameters for data generation and observe their impact on the regression model and its visualization. Additionally, features like dependency management, logging, and Git integration were implemented.
